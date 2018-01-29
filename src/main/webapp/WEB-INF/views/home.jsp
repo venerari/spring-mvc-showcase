@@ -40,7 +40,7 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
 		<p>
-			This line was added by Venerari.
+			This line was added by Venerari, changed 2nd.
 		</p>	    
 		<ul>
 			<li>
